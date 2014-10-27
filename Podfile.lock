@@ -1,0 +1,16 @@
+PODS:
+  - CNPPopupController (0.1.1)
+  - FSLineChart (0.1.1)
+  - SCLAlertView-Objective-C (0.1.2)
+
+DEPENDENCIES:
+  - CNPPopupController (~> 0.1.1)
+  - FSLineChart (~> 0.1.1)
+  - SCLAlertView-Objective-C (~> 0.1.2)
+
+SPEC CHECKSUMS:
+  CNPPopupController: 67b85d3c633938ebae15f776fbdabf029b959272
+  FSLineChart: 1d50ffa715a5c4dfb4e24a2ed3df35ee740a14b2
+  SCLAlertView-Objective-C: 107c898dafabde8bf64c6a32222e4394db8ad1c0
+
+COCOAPODS: 0.33.1
